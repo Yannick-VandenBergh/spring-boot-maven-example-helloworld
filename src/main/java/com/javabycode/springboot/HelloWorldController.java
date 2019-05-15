@@ -14,6 +14,6 @@ public class HelloWorldController {
         model.addAttribute("name", name);
         model.addAttribute("message", message);
         
-        return "Yawn"
+        return "Hopefully now..."
     }
 }
